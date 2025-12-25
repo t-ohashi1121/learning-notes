@@ -6,6 +6,7 @@
 
 ### Learning
 - テストログ解析は「結果」より「観点」を残すと再利用しやすい
+- テスト工程では、平均値より分布の形を見るべき場面が多い
 
 - Today, I had enough mental space to整理 my thoughts and leave a small trace of my learning.
 This repository is not about perfection, but continuity.
