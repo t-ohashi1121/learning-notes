@@ -34,6 +34,9 @@ This repo will contain:
 - No confidential or proprietary data is included
 - All data used here is synthetic or publicly available
 
+- Today, I had enough mental space to整理 my thoughts and leave a small trace of my learning.
+This repository is not about perfection, but continuity.
+
 何のためのRepoか（1行）
 
 誰向けか（自分）
