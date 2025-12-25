@@ -29,3 +29,7 @@ This repo will contain:
 - This is not a portfolio.
 - It is a thinking space.
 
+
+- This repository is for personal learning purposes
+- No confidential or proprietary data is included
+- All data used here is synthetic or publicly available
