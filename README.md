@@ -33,3 +33,9 @@ This repo will contain:
 - This repository is for personal learning purposes
 - No confidential or proprietary data is included
 - All data used here is synthetic or publicly available
+
+何のためのRepoか（1行）
+
+誰向けか（自分）
+
+今後やる予定（TODO）
