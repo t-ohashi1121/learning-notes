@@ -1,41 +1,29 @@
 # learning-notes
-Personal notes and learning records on engineering, technology, and thinking.
 
-# Learning Notes
+Personal learning notes and daily logs.  
+This repository is a place to record thoughts, learning, and experiments — focusing on continuity rather than perfection.
 
-This repository is a personal collection of notes and ideas.
+## 📌 Purpose
+- Keep small traces of daily learning
+- Organize thoughts during study and work
+- Build a reusable personal knowledge base
 
-## Topics
-- Engineering
-- Technology
-- Reading notes
-- Thoughts and experiments
+## 🗂 Structure
+- `daily/`  
+  Daily logs, reflections, and short notes
+- `topics/`  
+  Topic-based notes (technology, math, testing, etc.)
+  
+## 📝 Policy
+- Notes may be incomplete or rough
+- Some content is written primarily for myself
+- Accuracy and structure will be improved gradually
+  
+## 🚀 Status
+This repository is actively updated when time and mental space allow.
 
-## Policy
-- Not polished
-- For learning and thinking
-
-## About
-This repository is a personal collection of notes and ideas.
-
-## Contents
-This repo will contain:
-- Engineering notes
-- Technology insights
-- Book summaries
-- Personal thoughts and experiments
-
-## Why GitHub
-- This is not a portfolio.
-- It is a thinking space.
-
-## Public vs Private: Guidelilnes for Safe Sharing
-- This repository is for personal learning purposes
-- No confidential or proprietary data is included
-- All data used here is synthetic or publicly available
-
-- Today, I had enough mental space to整理 my thoughts and leave a small trace of my learning.
-This repository is not about perfection, but continuity.
+---
+Last updated: 2025-12
 
 何のためのRepoか（1行）
 
